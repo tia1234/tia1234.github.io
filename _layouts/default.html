@@ -1,31 +1,40 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!--What shows up in the tab heading thing-->
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+  <!--meta.html file code gets entered/read/executed here-->
+  <!--basically sets up open graph and other metadata-->
     {% include meta.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+  <!--references css file in a way that allows for local testing. link: http://jekyllrb.com/docs/github-pages/-->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <!--links to an alternate version of the document (i.e. print page, translated or mirror). In this case, it's an xml file-->
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
+  <!-- 3 SECTIONS: masthead (heading), main (body), and footer (where social media links should go) -->
     <div class="wrapper-masthead">
+      <!-- just like the name implies, it is the 'box' that contains all the text, images, content of each page -->
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
+          <!--header text: name and description classes fall under general site info class-->
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
+          <!--link to blog and about pages-->
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
@@ -34,6 +43,7 @@
       </div>
     </div>
 
+    <!--each section is in their own container, however they use the same format-->
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
