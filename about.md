@@ -7,14 +7,14 @@ permalink: /about/
 Some information about you!
 
 ### Tools
-#####Microsoft Tools: Excel, Word, PowerPoint, Visio, Outlook
+####Microsoft Tools: Excel, Word, PowerPoint, Visio, Outlook
 
-#####Courses taken on [codecademy](https://www.codecademy.com/learn):    
+####Courses taken on [codecademy](https://www.codecademy.com/learn):    
 JavaScript (in progress)    
 Python    
 HTML & CSS    
 
-#####Experience using:
+####Experience using:
 C#    
 Jekyll    
 Markdown    
