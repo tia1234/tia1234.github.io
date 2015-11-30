@@ -10,21 +10,21 @@ Some information about you!
 ####Microsoft Tools: Excel, Word, PowerPoint, Visio, Outlook
 
 ####Courses taken on [codecademy](https://www.codecademy.com/learn):    
-JavaScript (in progress)    
-Python    
-HTML & CSS    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript (in progress)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML & CSS    
 
 ####Experience using:
-C#    
-Jekyll    
-Markdown    
-Django    
-Confluence    
-Sharepoint    
-Jinja (python templating)    
-Windows command line    
-Github and Gitbook    
-Atom  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jekyll    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Markdown    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Django    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Confluence    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sharepoint    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jinja (python templating)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows command line    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github and Gitbook    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atom  
 
 ### More Information
 
