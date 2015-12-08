@@ -30,6 +30,7 @@ Some information about you!
 ### More Information
 
 Some of my hobbies include:
+
 - Programming
 - Dance
 - Solving puzzles (like sudoku)
